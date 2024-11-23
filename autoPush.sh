@@ -8,3 +8,6 @@ git commit -m "Auto commit"
 
 # Push the changes to the current branch
 git push
+
+
+##./autoPush.sh 
